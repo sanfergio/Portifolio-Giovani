@@ -461,6 +461,7 @@ button:hover {
 
 .download-btn {
   position: fixed;
+  z-index: 999;
   bottom: 20px; 
   right: 20px; 
   background-color: #007bff;
